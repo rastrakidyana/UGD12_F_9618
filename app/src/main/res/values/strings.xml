@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">PawHub</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="dogs">Dogs</string>
+    <string name="cats">Cats</string>
+    <string name="other">Other</string>
+
+    <string name="tambahCart">Add to cart</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shopping_cart">| Shopping Cart</string>
+    <string name="home"> | Home</string>
+    <string name="catalog"> | Catalog</string>
+    <string name="profile"> | Profile</string>
+    <string name="location">| Headquarters</string>
+    <string name="theme">| Theme</string>
+    <string name="user_profile">User Profile</string>
+    <string name="nama">Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="shopping_cart_normal">Shopping Cart</string>
+    <string name="categories">Categories</string>
+    <string name="currency">Rp. </string>
+    <string name="perpiece">/ pc</string>
+    <string name="removecart">Remove from cart</string>
+    <string name="quantity">Quantity:</string>
+    <string name="checkout">Check-out</string>
+
+    <string name="checkoutreceipt">Checkout Receipt</string>
+    <string name="pawhubpetstore">PawHub Pet Store</string>
+    <string name="customername">Customer : </string>
+    <string name="productname">Product Name</string>
+    <string name="qty">Qty</string>
+    <string name="price">Price</string>
+    <string name="total">Total</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="edit_user_profile">Edit User Profile</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="ourlocation">Our Location</string>
+    <string name="settingtheme">Theme Setting</string>
+    <string name="_login">| Login</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="questionSignUp">Don\'t have an account?</string>
+    <string name="clickHereSignUp">Click here to sign up!</string>
+    <string name="_sign_up">| Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="check_out">Check Out</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoibmlja3lqb3ZhbnVzIiwiYSI6ImNrZnFqdmEzNzE1NGgyeW9lNDZ3eWNkZWYifQ._-syHk1Ju_qDlurpFgEsgQ</string>
+
+    <string name="logout">Logout</string>
+    <string name="theme_picker">Theme Picker</string>
+</resources>
